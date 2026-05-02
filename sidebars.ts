@@ -26,6 +26,13 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Architecture',
+      items: [
+        'architecture',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Core Concepts',
       items: [
         {
